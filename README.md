@@ -12,8 +12,8 @@ This document outlines how to run the Unique request counter API application loc
 #### 1.1 Clone the Repository
 
 ```bash
-  git clone <your-repository-url>
-  cd <repository-folder>
+  git clone git@github.com:Durga-chikkala/unique-request-counter.git
+  cd unique-request-counter
 ```
 #### 1.2 Get all the dependencies by using:
 ```

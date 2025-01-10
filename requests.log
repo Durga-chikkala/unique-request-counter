@@ -1,7 +1,7 @@
-2025/01/10 01:19:08 Total Requests receive in last minute: 5
-2025/01/10 01:20:08 Total Requests receive in last minute: 0
-2025/01/10 01:21:08 Total Requests receive in last minute: 1
+2025/01/10 01:19:08 Total Number of Unique Requests received in last minute: 5
+2025/01/10 01:20:08 Total Number of Unique Requests received in last minute: 0
+2025/01/10 01:21:08 Total Number of Unique Requests received in last minute: 1
 2025/01/10 01:21:22 Request sent successfully to http://localhost:8080/post, StatusCode: 404
-2025/01/10 01:22:08 Total Requests receive in last minute: 1
-2025/01/10 01:23:08 Total Requests receive in last minute: 0
-2025/01/10 01:24:08 Total Requests receive in last minute: 0
+2025/01/10 01:22:08 Total Number of Unique Requests received in last minute: 1
+2025/01/10 01:23:08 Total Number of Unique Requests received in last minute: 0
+2025/01/10 01:24:08 Total Number of Unique Requests received in last minute: 0

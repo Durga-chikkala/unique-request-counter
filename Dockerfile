@@ -25,7 +25,7 @@ WORKDIR /root/
 COPY --from=builder /app/main .
 
 # Expose port 8000 for the HTTP server
-EXPOSE 8000
+EXPOSE 8080
 
 # Run the Go application binary
 CMD ["./main"]

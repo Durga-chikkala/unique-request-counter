@@ -69,7 +69,7 @@ func (s *Service) postUniqueCount(ctx context.Context, endpoint string) {
 // LogUniqueRequestCount logs the unique request count every minute using a time.Ticker
 func (s *Service) LogUniqueRequestCount() {
 	// Create a ticker that ticks every 1 minute
-	ticker := time.NewTicker(time.Minute)
+	ticker := time.NewTicker(1 * time.Minute)
 	defer ticker.Stop() // Stop the ticker when the function exits
 
 	for {
